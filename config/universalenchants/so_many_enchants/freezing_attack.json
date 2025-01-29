@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger"
+  ],
+  "incompatible": [
+    "so_many_enchants:critical",
+    "minecraft:sweeping"
+  ]
+}

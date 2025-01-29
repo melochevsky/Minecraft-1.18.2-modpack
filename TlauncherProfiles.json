@@ -1,0 +1,26 @@
+{
+  "clientToken": "78e456d2-16a8-43d4-bad5-3a9f6b186e82",
+  "accounts": {
+    "118afe0633d311eba6edd45d64bce613": {
+      "username": "notashine",
+      "userID": "notashine",
+      "displayName": "notashine",
+      "accessToken": "c1af0f03-6cf7-448a-a226-6285fcda23da",
+      "uuid": "118afe06-33d3-11eb-a6ed-d45d64bce613",
+      "type": "tlauncher",
+      "skinType": "tlauncher",
+      "premiumAccount": false,
+      "profiles": [
+        {
+          "id": "118afe06-33d3-11eb-a6ed-d45d64bce613",
+          "name": "notashine"
+        }
+      ],
+      "selectedProfile": {
+        "id": "118afe06-33d3-11eb-a6ed-d45d64bce613",
+        "name": "notashine"
+      }
+    }
+  },
+  "selectedAccountUUID": "118afe0633d311eba6edd45d64bce613"
+}

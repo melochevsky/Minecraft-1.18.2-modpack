@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger"
+  ],
+  "incompatible": [
+    "minecraft:smite",
+    "so_many_enchants:light_blade",
+    "minecraft:bane_of_arthropods",
+    "so_many_enchants:block_reach",
+    "minecraft:sharpness",
+    "so_many_enchants:attack_reach"
+  ]
+}

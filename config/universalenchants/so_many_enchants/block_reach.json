@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane"
+  ],
+  "incompatible": [
+    "so_many_enchants:light_blade",
+    "so_many_enchants:attack_reach",
+    "so_many_enchants:heavy_blade"
+  ]
+}

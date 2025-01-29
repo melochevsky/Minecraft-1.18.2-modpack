@@ -1,0 +1,25 @@
+{
+  "worlds": [
+    {
+      "name": "New World (1)",
+      "source": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\saves\\New World (1)",
+      "destination": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\backup\\saves\\saves\\New World (1)",
+      "lastChanged": "2025-01-28T19:37:28",
+      "backup": false
+    },
+    {
+      "name": "New World",
+      "source": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\saves\\New World",
+      "destination": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\backup\\saves\\saves\\New World",
+      "lastChanged": "2025-01-28T18:49:39",
+      "backup": false
+    },
+    {
+      "name": "New World (2)",
+      "source": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\saves\\New World (2)",
+      "destination": "C:\\Users\\milan\\curseforge\\minecraft\\Instances\\1.18.2\\backup\\saves\\saves\\New World (2)",
+      "lastChanged": "2025-01-28T20:23:55",
+      "backup": false
+    }
+  ]
+}

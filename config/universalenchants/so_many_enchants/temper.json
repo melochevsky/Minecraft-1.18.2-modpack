@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "so_many_enchants:heavy",
+    "so_many_enchants:reinforcement"
+  ]
+}
